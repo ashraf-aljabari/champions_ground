@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973559947274",
+    "firebase_url": "https://champions-ground.firebaseio.com",
+    "project_id": "champions-ground",
+    "storage_bucket": "champions-ground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973559947274:android:045dc96e5a3d54a3a47ff3",
+        "android_client_info": {
+          "package_name": "championsground.ashrafj.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973559947274-7ptrft3duds0qvofm8fv7u9mtbmjdaur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "championsground.ashrafj.com",
+            "certificate_hash": "d9c82228d41037714bb6581e816ec97e168e5d0b"
+          }
+        },
+        {
+          "client_id": "973559947274-cjo7gsv75k30ech4kfgs4b3p4qetbhtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAx8SEpghjujVKpoN1Mv4hV0pfJjBNTKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973559947274-cjo7gsv75k30ech4kfgs4b3p4qetbhtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
